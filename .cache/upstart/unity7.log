@@ -1,0 +1,4 @@
+WARN  2017-07-15 19:15:57 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 1
+WARN  2017-07-15 19:16:00 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 0
+
+(process:8011): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
